@@ -6,7 +6,7 @@ test-cases:
 
   - summary: |
       Краткое описание тест кейса. Пример: Проверка входа пользователя с существующими логином и паролем
-    status: pass
+  - status: success
 
 bugreports:
   - summary: |
