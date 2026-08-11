@@ -3,7 +3,7 @@ name: Vladislau Bronov
 job: QA Engineer
 level: junior
 email: brono17@mail.ru
-description: | "Начинающий QA Engineer. Этот текст — описание в свободной форме. Здесь можно рассказать пару интересных фактов про себя. Текст можно написать в несколько абзацев."
+description: "Начинающий QA Engineer."
 skills:
   - Функциональное тестирование
   - Написание багрепортов
