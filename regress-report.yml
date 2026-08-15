@@ -6,7 +6,7 @@ test-cases:
 
   - summary: |
       Проверка входа пользователя с существующими логином и паролем
-  - status: success
+  - status: pass
   
 bugreports:
   - summary: |
