@@ -2,7 +2,7 @@ name: Vladislav Bronov
 job: QA Engineer
 level: junior
 email: brono17@mail.ru
-description:
+description: |
   text: "Начинающий QA Engineer."
 skills:
   - Функциональное тестирование
