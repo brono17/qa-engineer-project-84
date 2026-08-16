@@ -1,0 +1,16 @@
+---
+name: Vladislav Bronov
+job: QA Engineer
+level: junior
+email: brono17@mail.ru
+description:
+  text: |
+    Начинающий QA Engineer.
+    Это мой первый опыт в тестировании.
+    Хочу развиваться в этой сфере.
+skills:
+  - Функциональное тестирование
+  - Написание багрепортов
+  - Linux
+  - Слепая печать
+  - Английский язык C1
