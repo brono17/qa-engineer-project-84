@@ -1,31 +1,75 @@
 ---
 - summary: |
     Осмотр витрины и карточек товаров
-  status: pass
-
-- summary: |
-    Использование строки запроса
-  status: pass
-
-- summary: |
-    Поиск по случайному набору символов
-  status: pass
-
-- summary: |
-    Отбор продукции по марке
-  status: pass
-
-- summary: |
-    Отбор продукции по наличию на складе
-  status: pass
-
-- summary: |
-    Перемещение товара в корзину
-  status: pass
-
-- summary: |
-    Формирование и завершение покупки
   status: fail
+
+- summary: |
+    Поиск товара по ключевому слову
+  status: pass
+
+- summary: |
+    Поиск несуществующего товара
+  status: pass
+
+- summary: |
+    Фильтрация товаров по марке
+  status: pass
+
+- summary: |
+    Фильтрация товаров по наличию
+  status: pass
+
+- summary: |
+    Фильтрация товаров по категории
+  status: pass
+
+- summary: |
+    Фильтрация товаров по цене
+  status: pass
+
+- summary: |
+    Осмотр страницы товара
+  status: pass
+
+- summary: |
+    Переход в категорию по хэштегу
+  status: pass
+
+- summary: |
+    Добавление одного и того же товара в корзину
+  status: pass
+
+- summary: |
+    Добавление разных товаров в корзину
+  status: pass
+
+- summary: |
+    Удаление товара из корзины
+  status: pass
+
+- summary: |
+    Полная очистка корзины
+  status: pass
+
+- summary: |
+    Навигация по страницам каталога
+  status: pass
+
+- summary: |
+    Оформление заказа с переходом на страницу оплаты
+  status: fail
+
+- summary: |
+    Проверка локализации
+  status: pass
+
+- summary: |
+    Проверка мобильной версии
+  status: pass
+
+- summary: |
+    Проверка работы сети (DevTools)
+  status: pass
 
 - summary: |
     Проверка отображения интерфейса в различных веб-обозревателях
