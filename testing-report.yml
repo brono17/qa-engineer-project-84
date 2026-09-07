@@ -29,11 +29,11 @@
 
 - summary: |
     Осмотр страницы товара
-  status: pass
+  status: fail
 
 - summary: |
     Переход в категорию по хэштегу
-  status: pass
+  status: fail
 
 - summary: |
     Добавление одного и того же товара в корзину
@@ -41,7 +41,7 @@
 
 - summary: |
     Добавление разных товаров в корзину
-  status: pass
+  status: fail
 
 - summary: |
     Удаление товара из корзины
@@ -60,17 +60,33 @@
   status: fail
 
 - summary: |
-    Проверка локализации
+    Проверка русской локализации
   status: pass
+
+- summary: |
+    Проверка английской локализации
+  status: fail
+
+- summary: |
+    Проверка испанской локализации
+  status: fail
 
 - summary: |
     Проверка мобильной версии
+  status: fail
+
+- summary: |
+    Проверка работы запросов (DevTools)
+  status: fail
+
+- summary: |
+    Проверка интерфейса в браузере Google Chrome
   status: pass
 
 - summary: |
-    Проверка работы сети (DevTools)
+    Проверка интерфейса в браузере Mozilla Firefox
   status: pass
 
 - summary: |
-    Проверка отображения интерфейса в различных веб-обозревателях
+    Проверка интерфейса в браузере Safari
   status: pass
