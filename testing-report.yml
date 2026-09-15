@@ -77,7 +77,7 @@
 
 - summary: |
     Проверка работы запросов (DevTools)
-  status: pass
+  status: fail
 
 - summary: |
     Проверка интерфейса в браузере Google Chrome
