@@ -73,11 +73,11 @@
 
 - summary: |
     Проверка мобильной версии
-  status: fail
+  status: pass
 
 - summary: |
     Проверка работы запросов (DevTools)
-  status: fail
+  status: pass
 
 - summary: |
     Проверка интерфейса в браузере Google Chrome
